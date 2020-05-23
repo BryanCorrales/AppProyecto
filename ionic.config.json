@@ -1,0 +1,7 @@
+{
+  "name": "Esfot",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
